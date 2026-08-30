@@ -176,7 +176,7 @@ class ConvolucaoFractal:
 ```
 
 #### Matemática:  
-$$ F(i,j) = \sum_{m=-1}^{1} \sum_{n=-1}^{1} K(m,n) \cdot \ln\left(1 + I(i-m, j-n)^2\right) $$  
+$F(i,j) = \sum_{m=-1}^{1} \sum_{n=-1}^{1} K(m,n) \cdot \ln\left(1 + I(i-m, j-n)^2\right)$
 
 ---
 
@@ -197,7 +197,7 @@ class MemoriaEnergetica:
 ```
 
 #### Equação de Energia:  
-$$ E(s) = -\frac{1}{2} \sum_{i,j} w_{ij} s_i s_j + \sum_i \theta_i s_i $$  
+$E(s) = -\frac{1}{2} \sum_{i,j} w_{ij} s_i s_j + \sum_i \theta_i s_i$
 
 ---
 
